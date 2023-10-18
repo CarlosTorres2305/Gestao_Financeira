@@ -20,3 +20,15 @@ Esse processo de faturamento é finalizado com a transmissão dos arquivos por e
 <li>O cliente acessa o portal, verifica seus fechamentos disponíveis e faz o download dos documentos;</li>
 <li>O cliente tem acesso a todo seu histórico de fechamentos, podendo verificar fechamentos vencidos, baixados etc. Também pode solicitar a atualização de boletos</li> 
  </ul>
+
+## Épicos
+<ol>
+	<li>Inserção/upload de arquivos</li>
+	<li>Criação de fechamento</li>
+	<li>Formulário de solicitação de cadastro</li>
+	<li>Acesso ao portal</li>
+	<li>Controle de fechamentos disponíveis, a vencer e vencidos</li>
+	<li>Acesso ao histórico de fechamentos</li>
+	<li>Notificação por email</li>
+	<li>Cadastro de usuário</li>
+</ol>
