@@ -11,7 +11,7 @@
 Esse processo de faturamento é finalizado com a transmissão dos arquivos por e-mail, porém esse processo de envio está sujeito a falhas de envio e recepção, e também não há um controle que garante que o e-mail que foi enviado seja recebido e seus arquivos processados.
 
 ##  Projeto proposto
- <p>Criação de uma plataforma que seja possível a inserção e o download desses arquivos, e também estabeleça uma comunicação entre empresa e cliente:</p>
+ <p>Aplicação Web que proporcione uma melhor gestão e comunicação entre empresa x cliente:</p>
 	
  <p>Funcionalidades principais:</p>
  <ul>
@@ -21,14 +21,22 @@ Esse processo de faturamento é finalizado com a transmissão dos arquivos por e
 <li>O cliente tem acesso a todo seu histórico de fechamentos, podendo verificar fechamentos vencidos, baixados etc. Também pode solicitar a atualização de boletos</li> 
  </ul>
 
-## Épicos
-<ol>
-	<li>Inserção/upload de arquivos</li>
-	<li>Criação de fechamento</li>
-	<li>Formulário de solicitação de cadastro</li>
-	<li>Acesso ao portal</li>
-	<li>Controle de fechamentos disponíveis, a vencer e vencidos</li>
-	<li>Acesso ao histórico de fechamentos</li>
-	<li>Notificação por email</li>
-	<li>Cadastro de usuário</li>
-</ol>
+FUNCIONARIOS:
+<ul>
+	<li>serão previamente cadastrados na plataforma</li>
+	<li>criação de fechamentos com inclusão de arquivos</li>
+	<li>consulta de fechamentos, arquivos e também consultar e gerenciar cadastros de CLIENTES</li>
+	<li>efetuar cobranças de fechamentos vencidos</li>
+</ul>
+
+CLIENTES: 
+<ul>
+	<li>deverão se cadastrar na plataforma, fornecendo as seguintes informações {Razão social, cnpj,
+	endereço e informações adicionais}, durante o cadastro será necessário preencher um formulário 
+	com perguntas referente a prefências de faturamento</li>
+	<li>acessar o sistema e verificar fechamentos disponíveis</li>
+	<li>Efeuar o download do fechamento</li>
+	<li>solicitar atualização de boletos</li> 
+</ul>
+
+Esse é um projeto integralmente pessoal
