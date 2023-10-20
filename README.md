@@ -39,4 +39,8 @@ CLIENTES:
 	<li>solicitar atualização de boletos</li> 
 </ul>
 
+
+## Modelo Conceitual do Banco de dados
+![modelo_conceitual](https://github.com/CarlosTorres2305/Gestao_Financeira/assets/93159431/0e682004-4d0f-48bc-9555-59389796921a)
+
 Esse é um projeto integralmente pessoal
